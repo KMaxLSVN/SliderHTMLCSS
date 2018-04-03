@@ -1,2 +1,2 @@
-# SliderHTMLCSS
-only css
+# Slider
+>The slider is written in css
